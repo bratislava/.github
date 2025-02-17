@@ -16,17 +16,17 @@ Don't know where to start? Check out some of our open projects:
 
 ### Webs and services
 
-🏛️ [bratislava.sk](https://github.com/bratislava/bratislava.sk) - [repo](https://github.com/bratislava/bratislava.sk)
+🏛️ [bratislava.sk](https://www.bratislava.sk) - [repo](https://github.com/bratislava/bratislava.sk)
 
-👤 [konto.bratislava.sk](https://github.com/bratislava/konto.bratislava.sk) - [repo](https://github.com/bratislava/konto.bratislava.sk)
+👤 [konto.bratislava.sk](https://konto.bratislava.sk) - [repo](https://github.com/bratislava/konto.bratislava.sk)
 
-🏊 [kupaliska.bratislava.sk](https://github.com/bratislava/kupaliska-starz-fe) - [repo](https://github.com/bratislava/kupaliska-starz-fe)
+🏊 [kupaliska.bratislava.sk](https://kupaliska.bratislava.sk) - [repo](https://github.com/bratislava/kupaliska-starz-fe)
 
-🎨 [gmb.sk](https://www.gmb.sk/) - [repo](https://www.gmb.sk/)
+🎨 [gmb.sk](https://www.gmb.sk/) - [repo](https://github.com/bratislava/gmb.sk)
 
 📚 [mestskakniznica.sk](https://mestskakniznica.sk) - [repo](https://github.com/bratislava/mestskakniznica.sk)
 
-🌺 [marianum.sk](https://github.com/bratislava/marianum.sk) - [repo](https://github.com/bratislava/marianum.sk)
+🌺 [marianum.sk](https://marianum.sk/) - [repo](https://github.com/bratislava/marianum.sk)
 
 ♻️ [olo.sk](https://olo.sk)
 
