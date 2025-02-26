@@ -46,7 +46,7 @@ Don't know where to start? Check out some of our open projects:
 
 📧 [Emails](https://github.com/bratislava/email-templates)
 
-🔒 [Websuppor certificate manager](https://github.com/bratislava/cert-manager-webhook-websupport)
+🔒 [Websupport certificate manager](https://github.com/bratislava/cert-manager-webhook-websupport)
 
 📱 [Expo app template](https://github.com/bratislava/expo-template)
 
